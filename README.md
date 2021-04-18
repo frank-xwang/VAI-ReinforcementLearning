@@ -5,7 +5,7 @@ by Xudong Wang*, Long Lian* and Stella X. Yu at UC Berkeley / ICSI. (*: equal co
 <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.</em>
 
 <p align="center">
-  <img src="http://people.eecs.berkeley.edu/~xdwang/projects/VAI/VAI2.png"  width="95%" >
+  <img src="http://people.eecs.berkeley.edu/~xdwang/projects/VAI/VAI2.png"  width="100%" >
 </p>
 
 For more information, please check: [PDF](http://people.eecs.berkeley.edu/~xdwang/papers/CVPR2021VAI.pdf) | 
